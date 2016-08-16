@@ -10,7 +10,7 @@ vue-ui includes these components:
 
 # usage
 
-you can scan these ui components upon up methods.
+you can scan these ui components upon up steps.
 - git clone https://github.com/raganyaYoung/vue-ui.git
 - cd vue-ui
 - npm install
